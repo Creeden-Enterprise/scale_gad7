@@ -1,0 +1,24 @@
+{
+  "id": "gad7",
+  "label": "GAD-7",
+  "fullName": "Generalized Anxiety Disorder Scale",
+  "abbr": "GAD-7",
+  "domain": "Anxiety Screening",
+  "citation": "Spitzer RL, Kroenke K, Williams JB, Löwe B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 166(10):1092–1097. https://doi.org/10.1001/archinte.166.10.1092",
+  "url": "https://www.phqscreeners.com",
+  "license": "No permission required to reproduce, translate, display or distribute. © Pfizer Inc. Free for all use.",
+  "description": "A 7-item self-report scale for screening for generalized anxiety disorder and assessing anxiety severity. Each item rated 0–3 over the past 2 weeks.",
+  "scoring": "0–4: minimal; 5–9: mild; 10–14: moderate; 15–21: severe. Cut-off ≥10 for GAD diagnosis (sensitivity 89%, specificity 82%).",
+  "items": [
+    "Feeling nervous, anxious or on edge",
+    "Not being able to stop or control worrying",
+    "Worrying too much about different things",
+    "Trouble relaxing",
+    "Being so restless that it is hard to sit still",
+    "Becoming easily annoyed or irritable",
+    "Feeling afraid as if something awful might happen"
+  ],
+  "tier": "attrib",
+  "loinc_code": "69737-5",
+  "loinc_display": "Generalized anxiety disorder 7 item total score"
+}
